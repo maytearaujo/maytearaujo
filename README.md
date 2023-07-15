@@ -1,12 +1,14 @@
-### Hello Word! 👋
+### Hello World! 👋
 
 Eu sou a Maytê 👩🏾, desenvolvedora em desenvolvimento! Atualmente estudo ADS, sou formada em Automação Industrial
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=maytearaujo&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maytearaujo&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maytearaujo&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maytearaujo&layout=compact">
 </div>
 
-🌎 let's get connected?! 🌎
+###🌎 let's get connected?! 🌎
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maytearaujo/)
 <!--
 **maytearaujo/maytearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
