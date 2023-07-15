@@ -25,9 +25,6 @@ Eu sou a Maytê 👩🏾, desenvolvedora em desenvolvimento! Atualmente estudo A
 
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           
-          
-  <img align="center" alt="html" height="30" width="40" src="">
-</div>
 <!--
 **maytearaujo/maytearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
