@@ -1,6 +1,11 @@
 ### Hello World! 👋
 
-Eu sou a Maytê 👩🏾, desenvolvedora em desenvolvimento! Atualmente estudo ADS, sou formada em Automação Industrial
+Eu sou a Maytê, desenvolvedora em desenvolvimento!  👩🏾<br><br>
+Atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec, sou formada em Automação Industrial e técnico em Informática com Ênfase em Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo. 🧑🏾‍🎓<br><br>
+Estou participando do projeto Elas Na Tech (formação em programação web) realizado pela Junior Achievement Brasil.
+<img align="center" alt="html" height="30" width="30" src="https://github.com/maytearaujo/maytearaujo/assets/87009799/5c179ff9-2e9c-4b3a-94a2-76341c547659">
+<br>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maytearaujo&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maytearaujo&layout=compact">
