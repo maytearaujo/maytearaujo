@@ -4,6 +4,7 @@ Eu sou a Maytê 👩🏾, desenvolvedora em desenvolvimento! Atualmente estudo A
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maytearaujo&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maytearaujo&layout=compact">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64b9bdbd8a29ad56fa9ce265?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 ### 🌎 let's get connected?! 🌎
@@ -24,6 +25,8 @@ Eu sou a Maytê 👩🏾, desenvolvedora em desenvolvimento! Atualmente estudo A
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+</div>
           
 <!--
 **maytearaujo/maytearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
