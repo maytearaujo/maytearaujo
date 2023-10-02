@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-Eu sou a Maytê, desenvolvedora em desenvolvimento!  👩🏾<br><br>
+Eu sou a Maytê, desenvolvedora de software!  👩🏾<br><br>
 Atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec (Faculdade de Tecnologia de São Paulo), sou graduada em Tecnologia em Automação Industrial e técnica em Informática com Ênfase em Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo. 🧑🏾‍🎓<br><br>
-Estou participando do projeto ElasNaTech realizado pela Junior Achievement Brasil em parceria com a CCR e IBM e também do VaiNaWeb patrocinado pelo Hospital Sírio Libanês ambas as formações são para desenvolvimento web e a segunda com introdução AWS.
+Estou participando do projeto ElasNaTech realizado pela Junior Achievement Brasil em parceria com a CCR e IBM, e também do VaiNaWeb patrocinado pelo Hospital Sírio Libanês. Ambas as formações são para desenvolvimento web, com introdução AWS.
 <img align="center" alt="html" height="30" width="30" src="https://github.com/maytearaujo/maytearaujo/assets/87009799/5c179ff9-2e9c-4b3a-94a2-76341c547659">
 <br>
 
