@@ -32,6 +32,16 @@ Estou participando do projeto ElasNaTech realizado pela Junior Achievement Brasi
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 </div>
+
+### 🛠️Projetos
+<div>
+  <ul>
+    <li><a href="https://maytearaujo.github.io/portfolio/" target="_blank">Portifolio</a> </li>
+    <li><a href="https://maytearaujo.github.io/elasnatech/portifolio/" target="_blank">Portifolio [Elas na_tech]</a> </li>
+    <li><a href="https://maytearaujo.github.io/Fantastika/" target="_blank">Fantastika</a> </li>      
+  </ul>
+</div>
+
           
 <!--
 **maytearaujo/maytearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
