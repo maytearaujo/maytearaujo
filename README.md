@@ -35,10 +35,11 @@ Estou participando do projeto ElasNaTech realizado pela Junior Achievement Brasi
 ### 🛠️Projetos de Estudos
 <div>
   <ul>
+    <li><a href="https://portfolio-vai-na-web.vercel.app/" target="_blank">Portfolio [Vai Na Web]</a></li>
+    <li><a href="https://maytearaujo.github.io/portfolio-elas-na-tech/" target="_blank">Portfolio [Elas na_tech]</a></li>
     <li><a href="https://maytearaujo.github.io/Portflow/" target="_blank">Portflow</li>
     <li><a href="https://maytearaujo.github.io/Fantastika/" target="_blank">Fantastika</a></li>
     <!--<li><a href="https://maytearaujo.github.io/portfolio/" target="_blank">Portifolio</a></li>-->
-    <li><a href="https://maytearaujo.github.io/portifolio-elas-na-tech/" target="_blank">Portfolio [Elas na_tech]</a></li>
     <li><a href="https://maytearaujo.github.io/soleil/" target="_blank">Soleil Feminino</li>
   </ul>
 </div>
