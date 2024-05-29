@@ -22,6 +22,9 @@ Estou participando do projeto ElasNaTech realizado pela Junior Achievement Brasi
 [![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](#)
+[![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](#)
+[![UML](https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black)](#)
+[![]()](#)
 [![]()](#)
 
 
