@@ -1,21 +1,60 @@
-### Hello World! 👋
+# Olá! Eu sou Maytê Araújo 👋
 
-Eu sou a Maytê, desenvolvedora de software!  👩🏾<br><br>
-Atualmente estudo Análise e Desenvolvimento de Sistemas na Fatec (Faculdade de Tecnologia de São Paulo), sou graduada em Tecnologia em Automação Industrial e técnica em Informática com Ênfase em Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo. 🧑🏾‍🎓<br><br>
-Estou participando do projeto ElasNaTech realizado pela Junior Achievement Brasil em parceria com a CCR e IBM, e também do VaiNaWeb patrocinado pelo Hospital Sírio Libanês. Ambas as formações são para desenvolvimento web, com introdução AWS.
-<img align="center" alt="html" height="30" width="30" src="https://github.com/maytearaujo/maytearaujo/assets/87009799/5c179ff9-2e9c-4b3a-94a2-76341c547659">
-<br>
+Gosto muito de estudar e aprender coisas novas e, atualmente, estou focada em construir uma carreira em tecnologia.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maytearaujo&layout=compact">
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b9bdbd8a29ad56fa9ce265?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
-</div>
+## 📌 Minha Jornada  
 
-### 🌎 let's get connected?! 🌎
+Meu interesse por tecnologia começou quando fiz um curso técnico de informática no **CEFET-SP**, onde tive a oportunidade de me desafiar a aprender algo novo. A **lógica de programação** foi o meu maior desafio e motivação.  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maytearaujo/)
+Sou graduada em **Tecnologia em Automação Industrial** pelo **IFSP**, cursei **Análise e Desenvolvimento de Sistemas** na **Fatec** e atualmente estudo **Sistemas de Informação**.  
 
-### 🛠️Technologies and tools used
+Em 2024, fui selecionada para participar do **Edital Carreiras em Movimento**, uma parceria entre o **Fundo Baobá** e o **Mover (Movimento pela Equidade Racial)**, que visa alavancar carreiras de pessoas pretas. Através desse projeto, estou aprimorando minhas habilidades de comunicação em inglês e, atualmente, me encontro em um nível **pré-avançado**.
+
+## 💼 Experiência Profissional  
+
+Já trabalhei como:  
+✔ **Instrutora de informática básica**  
+✔ **Teleatendente e recepcionista**  
+✔ **Estagiária front-end na Compass UOL**  
+✔ **Agente administrativo na Prefeitura de Praia Grande**  
+
+Ao longo dessas experiências, desenvolvi habilidades como **proatividade, organização, administração, atenção aos detalhes e atendimento ao público**.
+
+## 🚀 Transição para a Tecnologia  
+
+Atualmente, estou em **transição de carreira para a área de tecnologia**, focando no aprimoramento das minhas habilidades em desenvolvimento de sistemas.  
+
+Faço parte do **Bootcamp Generation Java Fullstack**, onde desenvolvi projetos individuais e em equipe utilizando:  
+- **Spring Boot** no back-end  
+- **React** no front-end  
+
+Já tive contato com:  
+✅ **C++**  
+✅ **Delphi**  
+✅ **Flutter**  
+✅ **Git & GitHub**  
+✅ **UML**  
+✅ **Banco de dados relacionais**  
+✅ **APIs**  
+✅ **Metodologias ágeis**  
+
+Além disso, sou **Certificada AWS Cloud Practitioner (CLF-C02)**. 🏅
+
+## 🛠️ Projetos de Estudos  
+
+🚧 *Lista de projetos em construção...*  
+<!--
+- [Portfolio [Vai Na Web]](https://portfolio-vai-na-web.vercel.app/)
+- [Portfolio [Elas na Tech]](https://maytearaujo.github.io/portfolio-elas-na-tech/)
+- [Portflow](https://maytearaujo.github.io/Portflow/)
+- [Fantastika](https://maytearaujo.github.io/Fantastika/)
+- [Portfolio](https://maytearaujo.github.io/portfolio/)
+- [Soleil Feminino](https://maytearaujo.github.io/soleil/)
+-->
+
+
+
+## 🛠️ Tecnologias e Ferramentas  
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](#)
@@ -28,30 +67,21 @@ Estou participando do projeto ElasNaTech realizado pela Junior Achievement Brasi
 [![]()](#)
 
 
-### 🛠️Projetos de Estudos
-<div>
-  <ul>
-    <!-- <li><a href="https://portfolio-vai-na-web.vercel.app/" target="_blank">Portfolio [Vai Na Web]</a></li>
-    <li><a href="https://maytearaujo.github.io/portfolio-elas-na-tech/" target="_blank">Portfolio [Elas na_tech]</a></li>
-    <li><a href="https://maytearaujo.github.io/Portflow/" target="_blank">Portflow</li>
-    <li><a href="https://maytearaujo.github.io/Fantastika/" target="_blank">Fantastika</a></li>
-    <li><a href="https://maytearaujo.github.io/portfolio/" target="_blank">Portifolio</a></li>
-    <li><a href="https://maytearaujo.github.io/soleil/" target="_blank">Soleil Feminino</li>-->
-  </ul>
-</div>
 
-          
+
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maytearaujo&layout=compact">
+
+
 <!--
-**maytearaujo/maytearaujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b9bdbd8a29ad56fa9ce265?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
+<-->
+## 🌎 Vamos nos conectar?!  
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maytearaujo/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
