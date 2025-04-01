@@ -1,8 +1,8 @@
-# Olá! Eu sou Maytê Araújo 👋
+# Olá! Eu sou Maytê Araújo
 
 Gosto muito de estudar e aprender coisas novas e, atualmente, estou focada em construir uma carreira em tecnologia.
 
-## 📌 Minha Jornada  
+## Minha Jornada  
 
 Meu interesse por tecnologia começou quando fiz um curso técnico de informática no **CEFET-SP**, onde tive a oportunidade de me desafiar a aprender algo novo. A **lógica de programação** foi o meu maior desafio e motivação.  
 
@@ -10,7 +10,7 @@ Sou graduada em **Tecnologia em Automação Industrial** pelo **IFSP**, cursei *
 
 Em 2024, fui selecionada para participar do **Edital Carreiras em Movimento**, uma parceria entre o **Fundo Baobá** e o **Mover (Movimento pela Equidade Racial)**, que visa alavancar carreiras de pessoas pretas. Através desse projeto, estou aprimorando minhas habilidades de comunicação em inglês e, atualmente, me encontro em um nível **pré-avançado**.
 
-## 💼 Experiência Profissional  
+## Experiência Profissional  
 
 Já trabalhei como:  
 ✔ **Instrutora de informática básica**  
@@ -20,7 +20,7 @@ Já trabalhei como:
 
 Ao longo dessas experiências, desenvolvi habilidades como **proatividade, organização, administração, atenção aos detalhes e atendimento ao público**.
 
-## 🚀 Transição para a Tecnologia  
+## Transição para a Tecnologia  
 
 Atualmente, estou em **transição de carreira para a área de tecnologia**, focando no aprimoramento das minhas habilidades em desenvolvimento de sistemas.  
 
@@ -29,18 +29,18 @@ Faço parte do **Bootcamp Generation Java Fullstack**, onde desenvolvi projetos 
 - **React** no front-end  
 
 Já tive contato com:  
-✅ **C++**  
-✅ **Delphi**  
-✅ **Flutter**  
-✅ **Git & GitHub**  
-✅ **UML**  
-✅ **Banco de dados relacionais**  
-✅ **APIs**  
-✅ **Metodologias ágeis**  
+✔  **C++**  
+✔  **Delphi**  
+✔  **Flutter**  
+✔  **Git & GitHub**  
+✔  **UML**  
+✔  **Banco de dados relacionais**  
+✔  **APIs**  
+✔  **Metodologias ágeis**  
 
 Além disso, sou **Certificada AWS Cloud Practitioner (CLF-C02)**. 🏅
 
-## 🛠️ Projetos de Estudos  
+## Projetos de Estudos  
 
 🚧 *Lista de projetos em construção...*  
 <!--
@@ -54,24 +54,35 @@ Além disso, sou **Certificada AWS Cloud Practitioner (CLF-C02)**. 🏅
 
 
 
-## 🛠️ Tecnologias e Ferramentas  
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](#)
-[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](#)
-[![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](#)
-[![UML](https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black)](#)
-[![]()](#)
-[![]()](#)
-
-
-
-
-
-
-
+## Tecnologias e Ferramentas  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+</br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maytearaujo&layout=compact">
 
 
@@ -79,7 +90,7 @@ Além disso, sou **Certificada AWS Cloud Practitioner (CLF-C02)**. 🏅
   
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b9bdbd8a29ad56fa9ce265?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Cfull-stack" alt="roadmap.sh"/></a>
 <-->
-## 🌎 Vamos nos conectar?!  
+## Vamos nos conectar?!  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maytearaujo/)
 
