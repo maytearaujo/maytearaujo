@@ -10,16 +10,6 @@ Sou graduada em **Tecnologia em Automação Industrial** pelo **IFSP**, cursei *
 
 Em 2024, fui selecionada para participar do **Edital Carreiras em Movimento**, uma parceria entre o **Fundo Baobá** e o **Mover (Movimento pela Equidade Racial)**, que visa alavancar carreiras de pessoas pretas. Através desse projeto, estou aprimorando minhas habilidades de comunicação em inglês e, atualmente, me encontro em um nível **pré-avançado**.
 
-## Experiência Profissional  
-
-Já trabalhei como:  
-✔ **Instrutora de informática básica**  
-✔ **Teleatendente e recepcionista**  
-✔ **Estagiária front-end na Compass UOL**  
-✔ **Agente administrativo na Prefeitura de Praia Grande**  
-
-Ao longo dessas experiências, desenvolvi habilidades como **proatividade, organização, administração, atenção aos detalhes e atendimento ao público**.
-
 ## Conhecimentos em Tecnologia  
 
 ✔  **Spring Boot** 
@@ -33,11 +23,9 @@ Ao longo dessas experiências, desenvolvi habilidades como **proatividade, organ
 ✔  **Metodologias ágeis**
 ✔  **Certificada AWS Cloud Practitioner (CLF-C02)**
 
+
 Já tive contato com:
-✔  **Flutter** 
-✔  **Python** 
-✔  **C++**  
-✔  **Delphi**  
+✔  **Flutter**   ✔  **Python**   ✔  **C++**    ✔  **Delphi**  
 
 
 ## Projetos de Estudos  
