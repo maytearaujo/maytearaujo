@@ -20,32 +20,33 @@ Já trabalhei como:
 
 Ao longo dessas experiências, desenvolvi habilidades como **proatividade, organização, administração, atenção aos detalhes e atendimento ao público**.
 
-## Transição para a Tecnologia  
+## Conhecimentos em Tecnologia  
 
-Atualmente, estou em **transição de carreira para a área de tecnologia**, focando no aprimoramento das minhas habilidades em desenvolvimento de sistemas.  
-
-Faço parte do **Bootcamp Generation Java Fullstack**, onde desenvolvi projetos individuais e em equipe utilizando:  
-- **Spring Boot** no back-end  
-- **React** no front-end  
-
-Já tive contato com:  
-✔  **C++**  
-✔  **Delphi**  
-✔  **Flutter**  
-✔  **Git & GitHub**  
-✔  **UML**  
+✔  **Spring Boot** 
+✔  **Java** 
+✔  **React** 
+✔  **Tailwind** 
 ✔  **Banco de dados relacionais**  
 ✔  **APIs**  
-✔  **Metodologias ágeis**  
+✔  **Git & GitHub**  
+✔  **UML**  
+✔  **Metodologias ágeis**
+✔  **Certificada AWS Cloud Practitioner (CLF-C02)**
 
-Além disso, sou **Certificada AWS Cloud Practitioner (CLF-C02)**. 🏅
+Já tive contato com:
+✔  **Flutter** 
+✔  **Python** 
+✔  **C++**  
+✔  **Delphi**  
+
 
 ## Projetos de Estudos  
 
 🚧 *Lista de projetos em construção...*  
-<!--
-- [Portfolio [Vai Na Web]](https://portfolio-vai-na-web.vercel.app/)
-- [Portfolio [Elas na Tech]](https://maytearaujo.github.io/portfolio-elas-na-tech/)
+
+- [Blog Pessoal](https://blog-pessoal-frontend-taupe.vercel.app/) | [Github Front](https://github.com/maytearaujo/blog-pessoal-frontend) | [Github Backend](https://github.com/maytearaujo/blog-pessoal)
+- [Plant Peace](https://plant-peace-xi.vercel.app/) | [Github](https://github.com/maytearaujo/plant-peace)
+<!--- [Portfolio [Elas na Tech]](https://maytearaujo.github.io/portfolio-elas-na-tech/)
 - [Portflow](https://maytearaujo.github.io/Portflow/)
 - [Fantastika](https://maytearaujo.github.io/Fantastika/)
 - [Portfolio](https://maytearaujo.github.io/portfolio/)
