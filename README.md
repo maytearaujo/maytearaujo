@@ -12,14 +12,14 @@ Em 2024, fui selecionada para participar do **Edital Carreiras em Movimento**, u
 
 ## Conhecimentos em Tecnologia  
 
-✔  **Spring Boot** 
-✔  **Java** 
-✔  **React** 
-✔  **Tailwind** 
-✔  **Banco de dados relacionais**  
-✔  **APIs**  
-✔  **Git & GitHub**  
-✔  **UML**  
+✔  **Spring Boot**
+✔  **Java**
+✔  **React**
+✔  **Tailwind**
+✔  **Banco de dados relacionais**
+✔  **APIs**
+✔  **Git & GitHub**
+✔  **UML**
 ✔  **Metodologias ágeis**
 ✔  **Certificada AWS Cloud Practitioner (CLF-C02)**
 
