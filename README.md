@@ -25,6 +25,7 @@ Em 2024, fui selecionada para participar do **Edital Carreiras em Movimento**, u
 
 
 Já tive contato com:
+
 ✔  **Flutter**   ✔  **Python**   ✔  **C++**    ✔  **Delphi**  
 
 
